@@ -1,0 +1,11 @@
+<i class="fa fa-comment-o" aria-hidden="true"></i>
+COMENTAR
+
+<i class="fa fa-heart-o" aria-hidden="true"></i>
+CORAZON
+
+<i class="fa fa-bookmark-o" aria-hidden="true"></i>
+EL DE LA DERECHA
+
+<i class="fa fa-paper-plane-o" aria-hidden="true"></i>
+AVIONCITO
